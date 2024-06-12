@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.js_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    gap:30px
+}
+.js_tip {
+    background-color: papayawhip;
+}
+.js_attempts {
+    background-color: papayawhip;
+}
+.js_btn {
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    color: white;
+}
